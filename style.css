@@ -636,7 +636,7 @@ margin-top: 3rem;
 .social{
   display: none;
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:319px){
 
   
   .toggle-collapse{
