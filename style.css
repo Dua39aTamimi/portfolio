@@ -780,6 +780,6 @@ margin-top: 3rem;
     width:90%;
   }
   #data-list{
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 }
